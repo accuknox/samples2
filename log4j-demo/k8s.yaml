@@ -8,7 +8,7 @@ spec:
   replicas: 1
   selector:
     matchLabels:
-      app: java-ms
+      app: dev-app
   template:
     metadata:
       labels:
